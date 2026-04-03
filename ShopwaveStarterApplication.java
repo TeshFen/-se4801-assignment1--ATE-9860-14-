@@ -1,0 +1,16 @@
+//Fenet Teshome
+//ATE/9860/14
+
+package com.shopwave.shopwave_starter;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ShopwaveStarterApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ShopwaveStarterApplication.class, args);
+	}
+
+}
